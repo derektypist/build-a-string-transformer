@@ -12,6 +12,6 @@ Copy `script.js` into the text editor of your choice.  In terminal, use `node sc
 
 ## Credits
 
-### Acknowledgements
+### Acknowledgements
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
